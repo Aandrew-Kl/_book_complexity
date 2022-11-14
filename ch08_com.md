@@ -1,6 +1,6 @@
 ---
 title: ch07_com.md
-duration: '10 lepta'
+duration: '15 λεπτά'
 level: 'Advanced'
 words: '4725'
 keywords:
